@@ -7,7 +7,7 @@ public class PrintName : MonoBehaviour
 /*
 Excercise 1: Provide the result of the following logical operators (no need to write the code)
 
-true && true                  ==> true
+true && true                  ==> truenbv
 
 true && false                 ==> false 
 
