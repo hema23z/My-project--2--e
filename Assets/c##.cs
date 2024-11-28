@@ -60,6 +60,8 @@ while(v<4) {
         Debug.Log("The last life");
     }
     if(v==3){Debug.Log("Many lives") ;
+    if(v==3){Debug.Log("Many lives") ;
+    if(v==3){Debug.Log("Many lives") ;if(v==3){Debug.Log("Many lives") ;
     }
     v++;
 
