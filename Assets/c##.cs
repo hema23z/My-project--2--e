@@ -4,7 +4,8 @@ public class PrintName : MonoBehaviour
 {
     void Start()
     {
-    
+    //Exercise 1: Number Generator: 
+
         int num= 0;
         while(num<21)
         {
@@ -19,6 +20,7 @@ public class PrintName : MonoBehaviour
 
         }
 
+    //Exercise 2: Funny Sentence Generator: 
            string [ ] fan={ "Cat", "Dog", "Car", "Pizza", "Hat", "Fish", "Tree", "Monkey", "Ball", "Bird"};
            int numFan=0;
         while(numFan<7){
